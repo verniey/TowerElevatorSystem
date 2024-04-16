@@ -3,7 +3,7 @@
 ### Overview
 
 The elevator system is designed to efficiently manage multiple elevators, responding to floor requests with minimal wait times and optimizing energy use. The core of the system's functionality lies in its Elevator Movement Logic, which determines how elevators decide to move, stop, and handle requests from users.
-## Input / Output Examples
+## Input Examples
 - For entering the building: `[current floor: 0, destination floor: N, direction: UP]`
 - For leaving the building from the Nth floor: `[current floor: N, destination floor: 0, direction: DOWN]`
 
